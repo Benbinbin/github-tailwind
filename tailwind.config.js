@@ -13,7 +13,7 @@ module.exports = {
   },
   variants: {
     backgroundColor: ['focus-within'],
-    width: ['responsive','focus-within']
+    width: ['responsive','focus-within', 'focus']
   },
   plugins: [],
 }
