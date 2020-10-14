@@ -12,7 +12,7 @@ module.exports = {
     },
   },
   variants: {
-    backgroundColor: ['focus-within'],
+    backgroundColor: ['focus-within', 'hover'],
     width: ['responsive','focus-within', 'focus']
   },
   plugins: [],
